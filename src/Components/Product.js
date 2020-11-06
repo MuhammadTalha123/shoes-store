@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import Shoes from './../shoes.json';
+import Shoes from '../shoes.json';
 
 function Product() {
 
